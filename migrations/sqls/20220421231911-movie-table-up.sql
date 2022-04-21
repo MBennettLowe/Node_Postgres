@@ -1,0 +1,1 @@
+create table movie (id SERIAL PRIMARY KEY, title VARCHAR(100), type VARCHAR(50), genre VARCHAR(20), year integer);
